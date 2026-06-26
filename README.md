@@ -30,10 +30,13 @@ This project addresses that problem by automatically analyzing resumes and provi
 
 Programming Language:
 Python
+
+AI/ML:
 AI & Machine Learning
 Sentence Transformers
 NLP
 Semantic Similarity
+
 Libraries:
 Streamlit
 Pandas
@@ -68,3 +71,6 @@ For Candidates
 Understand missing skills.
 Improve resume quality.
 Learn how well their resume matches a job description.
+
+## Run this project
+Streamlit run app.py
